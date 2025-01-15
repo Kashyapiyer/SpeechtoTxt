@@ -1,4 +1,4 @@
-***Simple Financial Earnings Exploratory conversational pipeline using Whisperx+Llama3.2 
+*** Simple Exploration of Financial Earnings using conversational pipeline Whisperx+Llama3.2
 
 
 Model References: 
